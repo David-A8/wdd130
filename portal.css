@@ -1,0 +1,22 @@
+body{
+    background-color: beige;
+}
+nav{
+    /*background-color: lightblue;*/
+    display: flex;
+}
+
+
+a{
+    background-color: lightblue;
+    color: rgb(71, 68, 69);
+    text-decoration: none;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+.background {
+    background-color: lightseagreen;
+
+}
