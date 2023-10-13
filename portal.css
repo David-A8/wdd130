@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@700&family=Ysabeau:wght@500');
 body{
     background-color: beige;
+    font-family: Ysabeau, Verdana, Sans-serif;
 }
 nav{
     /*background-color: lightblue;*/
@@ -30,6 +32,9 @@ img{
     width: 500px;
     display: block;
     margin: 0 auto;
+    border: 4px solid goldenrod;
+    padding: 30px;
+    box-sizing: border-box;
 }
 p{
     width: 40%;
