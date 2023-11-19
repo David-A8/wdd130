@@ -81,8 +81,8 @@ nav a:hover{
 }
 
 .book:hover, .join:hover{
-    background-color: whitesmoke;
-    color: #3A405A;
+    background-color: rgba(79,119,45,75%);
+    color: whitesmoke;
 }
 
 .msg{
