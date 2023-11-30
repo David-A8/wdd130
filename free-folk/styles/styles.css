@@ -7,6 +7,18 @@
 #content{
     max-width: 1600px;
     margin: 0 auto;
+
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgba(61, 69, 68, 100%);
+}
+
+.sticky2{
+    padding-top: 100px;
 }
 
 nav a{
